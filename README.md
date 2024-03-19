@@ -1,6 +1,7 @@
-# Delhi Metro Network Analysis
+# Delhi Metro Network Analysis  
+### [Project view ](https://nbviewer.org/github/kamakshii22/Metro_Network_Analysis/blob/main/Delhi_metro_network_analysis.ipynb)
 
-## Introduction
+## Introduction 
 
 Delhi Metro serves as a vital transportation system for the residents of Delhi, India. This project aims to provide a detailed analysis of the network utilizing data visualization techniques and analytical tools.
 
